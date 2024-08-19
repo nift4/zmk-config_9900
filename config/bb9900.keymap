@@ -71,7 +71,7 @@
                  &kp C_VOL_UP                                                                                       &kp C_VOL_DN
     &kp PSCRN               &kp C_AC_SEARCH                     &mkp LCLK                          &kp F5                            &kp F12 
     &kp DE_HASH  &kp DE_N1  &kp DE_N2   &kp DE_N3 &mt DE_LBKT DE_LPAR &mt DE_RBKT DE_RPAR &kp DE_UNDER &kp DE_MINUS &kp DE_PLUS      &kp DE_AT
-    &kp STAR     &kp DE_N4  &kp DE_N5   &kp DE_N6 &kp DE_FSLH   &kp DE_COLON      &kp DE_SEMI      &kp DE_APOS      &kp DE_DQT       &kp DEL
+    &kp DE_STA   &kp DE_N4  &kp DE_N5   &kp DE_N6 &kp DE_FSLH   &kp DE_COLON      &kp DE_SEMI      &kp DE_APOS      &kp DE_DQT       &kp DEL
     &kp LSHFT    &kp DE_N7  &kp DE_N8   &kp DE_N9 &kp DE_QMARK  &kp DE_EXCL       &kp DE_COMMA     &kp DE_DOT       &kp C_MUTE       &kp ENTER
     &kp LCTRL               &kp DE_N0                           &kp DE_SPACE                       &tog SYM                          &tog UPPER
             >;
