@@ -84,7 +84,7 @@
     &bt BT_SEL 0            &bt BT_SEL 1                             &td0                           &bt BT_SEL 2                     &bt BT_SEL 3
     &mt DE_SECT DE_SQUARE &kp UP &mt DE_TILDE DE_CUBE &sys_reset &ext_power EP_TOG &kp DE_PRCNT &kp DE_LT &kp DE_GT &kp DE_PIPE      &kp DE_EQUAL
     &kp LEFT     &kp DOWN   &kp RIGHT   &mt DE_SZ DE_CAPITAL_SZ &kp DE_BSLH &kp DE_AMPS &kp DE_LBRC &kp DE_RBRC     &mt DE_CARET DE_DEG &kp BSPC
-    &kp LSHFT    &kp DE_A_UMLAUT &kp DE_O_UMLAUT &kp DE_U_UMLAUT &bl BL_DEC &bl BL_TOG &bl BL_INC   &mp DE_DLLR DE_MU &bootloader    &kp ENTER
+    &kp LSHFT    &kp DE_A_UMLAUT &kp DE_O_UMLAUT &kp DE_U_UMLAUT &bl BL_DEC &bl BL_TOG &bl BL_INC   &mt DE_DLLR DE_MU &bootloader    &kp ENTER
     &kp LCTRL               &kp LALT                                 &hm OUT_TOG SPACE              &tog SYM                         &tog UPPER
             >;
         };
