@@ -71,7 +71,7 @@
                  &kp C_VOL_UP                                                                                       &kp C_VOL_DN
     &kp PSCRN               &kp C_AC_SEARCH                     &mkp LCLK                          &kp F5                            &kp F12 
     &kp DE_HASH  &kp DE_N1  &kp DE_N2   &kp DE_N3 &mt DE_LBKT DE_LPAR &mt DE_RBKT DE_RPAR &kp DE_UNDER &kp DE_MINUS &kp DE_PLUS      &kp DE_AT
-    &kp DE_STAR  &kp DE_N4  &kp DE_N5   &kp DE_N6 &kp DE_FSLH   &kp DE_COLON      &kp DE_SEMI      &mt DE_SQT DE_GRAVE &mt DE_DQT DE_ACUTE &kp DEL
+    &kp DE_STAR  &kp DE_N4  &kp DE_N5   &kp DE_N6 &kp DE_FSLH   &kp DE_COLON      &kp DE_SEMI      &mt DE_GRAVE DE_SQT &mt DE_ACUTE DE_DQT &kp DEL
     &kp LSHFT    &kp DE_N7  &kp DE_N8   &kp DE_N9 &kp DE_QMARK  &kp DE_EXCL       &kp DE_COMMA     &kp DE_DOT       &kp C_MUTE       &kp ENTER
     &kp LCTRL               &kp DE_N0                           &kp DE_SPACE                       &tog SYM                          &tog UPPER
             >;
@@ -82,9 +82,9 @@
             bindings = <
                  &msc SCRL_UP                                                                                       &msc SCRL_DOWN
     &bt BT_SEL 0            &bt BT_SEL 1                             &td0                           &bt BT_SEL 2                     &bt BT_SEL 3
-    &mt DE_SECT DE_SQUARE &kp UP &mt DE_TILDE DE_CUBE &sys_reset &ext_power EP_TOG &kp DE_PRCNT &kp DE_LT &kp DE_GT &kp DE_PIPE      &kp DE_EQUAL
-    &kp LEFT     &kp DOWN   &kp RIGHT   &mt DE_SZ DE_CAPITAL_SZ &kp DE_BSLH &kp DE_AMPS &kp DE_LBRC &kp DE_RBRC     &mt DE_CARET DE_DEG &kp BSPC
-    &kp LSHFT    &kp DE_A_UMLAUT &kp DE_O_UMLAUT &kp DE_U_UMLAUT &bl BL_DEC &bl BL_TOG &bl BL_INC   &mt DE_DLLR DE_MU &bootloader    &kp ENTER
+    &mt DE_SQUARE DE_SECT &kp UP &mt DE_CUBE DE_TILDE &sys_reset &ext_power EP_TOG &kp DE_PRCNT &kp DE_LT &kp DE_GT &kp DE_PIPE      &kp DE_EQUAL
+    &kp LEFT     &kp DOWN   &kp RIGHT   &mt DE_CAPITAL_SZ DE_SZ &kp DE_BSLH &kp DE_AMPS &kp DE_LBRC &kp DE_RBRC     &mt DE_DEG DE_CARET &kp BSPC
+    &kp LSHFT    &kp DE_A_UMLAUT &kp DE_O_UMLAUT &kp DE_U_UMLAUT &bl BL_DEC &bl BL_TOG &bl BL_INC   &mt DE_MU DE_DLLR &bootloader    &kp ENTER
     &kp LCTRL               &kp LALT                                 &hm OUT_TOG SPACE              &tog SYM                         &tog UPPER
             >;
         };
