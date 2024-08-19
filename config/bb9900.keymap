@@ -83,8 +83,8 @@
                  &msc SCRL_UP                                                                                       &msc SCRL_DOWN
     &bt BT_SEL 0            &bt BT_SEL 1                             &td0                           &bt BT_SEL 2                     &bt BT_SEL 3
     &none        &kp UP     &none       &sys_reset &ext_power EP_TOG &none         &kp DE_LT        &kp DE_GT       &kp DE_PIPE      &kp DE_EQUAL
-    &kp LEFT     &kp DOWN   &kp RIGHT   &none      &kp DE_BSLH       &kp AMPS      &kp DE_LBRC      &kp DE_RBRC     &kp DE_CARET     &kp BSPC
-    &kp LSHFT    &none      &none       &none      &bl BL_DEC        &bl BL_TOG    &bl BL_INC       &none           &bootloader      &kp ENTER
+    &kp LEFT     &kp DOWN   &kp RIGHT   &kp DE_SZ  &kp DE_BSLH       &kp AMPS      &kp DE_LBRC      &kp DE_RBRC     &kp DE_CARET     &kp BSPC
+    &kp LSHFT    &kp DE_A_UMLAUT &kp DE_O_UMLAUT &kp DE_U_UMLAUT &bl BL_DEC &bl BL_TOG &bl BL_INC   &none           &bootloader      &kp ENTER
     &kp LCTRL               &kp LALT                                 &hm OUT_TOG SPACE              &tog SYM                         &tog UPPER
             >;
         };
